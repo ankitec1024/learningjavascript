@@ -1,0 +1,1073 @@
+1.!+tab to generate basic html template in vs. 
+2.last tab is the extension tab.
+
+
+
+
+3. 3- Setting Up the Development
+1:44
+3 days ago
+!+tab to generate basic html template in vs.
+1:44
+3 days ago
+!+tab to generate basic html template in vs.
+2:01
+3 days ago
+last tab is the extension tab.
+2:01
+3 days ago
+last tab is the extension tab.
+2:15
+3 days ago
+live server is a light weight server application.
+2:15
+3 days ago
+live server is a light weight server application.
+4. 4- JavaScript in Browsers
+3:36
+3 days ago
+alt+command+i to open the console tab on browser(shortcut).
+3:36
+3 days ago
+alt+command+i to open the console tab on browser(shortcut).
+5. 5- Separation of Concerns
+0:40
+3 days ago
+html is content and javascript is as a behaviour.
+0:40
+3 days ago
+html is content and javascript is as a behaviour.
+6. 6- JavaScript in Node
+1:39
+3 days ago
+view-> terminal
+1:39
+3 days ago
+view-> terminal
+Section 2:
+Basics
+10. 3- Primitive Types
+2:52
+3 days ago
+we use the null in situation where we want to clear the value of the variable.
+2:52
+3 days ago
+we use the null in situation where we want to clear the value of the variable.
+11. 4- Dynamic Typing
+0:56
+3 days ago
+in static languages static means can not change the variable type, dynamic language means here we can change.
+0:56
+3 days ago
+in static languages static means can not change the variable type, dynamic language means here we can change.
+1:26
+3 days ago
+type of the dynamic type language us based on the run time.
+1:26
+3 days ago
+type of the dynamic type language us based on the run time.
+1:46
+3 days ago
+ctrl+L to clear the console.
+1:46
+3 days ago
+ctrl+L to clear the console.
+3:02
+3 days ago
+undefined is both the type(premetive type) and also a value.
+3:02
+3 days ago
+undefined is both the type(premetive type) and also a value.
+3:11
+3 days ago
+the variable which has value null, is an object type.
+3:11
+3 days ago
+the variable which has value null, is an object type.
+12. 5- Objects
+0:18
+3 days ago
+object , Arrays and functions are reference type variables in JavaScript.
+0:18
+3 days ago
+object , Arrays and functions are reference type variables in JavaScript.
+1:26
+3 days ago
+{}-> object literal
+1:26
+3 days ago
+{}-> object literal
+13. Arrays
+0:47
+3 days ago
+[] -> array literal, and it indicates empty array.
+0:47
+3 days ago
+[] -> array literal, and it indicates empty array.
+2:38
+3 days ago
+unlike the other language we can add different type of variable in the same array.
+2:38
+3 days ago
+unlike the other language we can add different type of variable in the same array.
+3:04
+3 days ago
+technically array is also as an object
+3:04
+3 days ago
+technically array is also as an object
+14. Functions
+3:17
+3 days ago
+argument is a value which we pass when calls the function and parameter is the one which we declare on the funcion.
+3:17
+3 days ago
+argument is a value which we pass when calls the function and parameter is the one which we declare on the funcion.
+Section 3:
+Operators
+16. 1- JavaScript Operators
+0:22
+3 days ago
+operators with variables create expressions and with this expressions we create logic and algorithm.
+0:22
+3 days ago
+operators with variables create expressions and with this expressions we create logic and algorithm.
+17. Arithmetic Operators
+1:18
+3 days ago
+x**y , x to the power of y.
+1:18
+3 days ago
+x**y , x to the power of y.
+2:24
+3 days ago
+putting increement before x, first it increese value then print, and in constrast post increement first it print the value and then increese
+2:24
+3 days ago
+putting increement before x, first it increese value then print, and in constrast post increement first it print the value and then increese
+20. 5- Equality Operators
+3:03
+3 days ago
+=== is strict equality and == is a loose equality operator.=== compare both type and value while == is only compare value, it change the -
+3:03
+3 days ago
+=== is strict equality and == is a loose equality operator.=== compare both type and value while == is only compare value, it change the -
+3:05
+3 days ago
+-right one value to the left one variable.and 1 manje true.
+3:05
+3 days ago
+-right one value to the left one variable.and 1 manje true.
+21. 6- Ternary Operators
+1:53
+3 days ago
+ternary or conditional operator ? :
+1:53
+3 days ago
+ternary or conditional operator ? :
+23. 8- Logical Operators with Non-Booleans
+3:47
+2 days ago
+truthy and falsy. return value not true or false
+3:47
+2 days ago
+truthy and falsy. return value not true or false
+4:06
+2 days ago
+as soon as it find truthy return that value so that's why here return 1.
+4:06
+2 days ago
+as soon as it find truthy return that value so that's why here return 1.
+5:42
+2 days ago
+using logical or operator we give a non-boolean value to the variable example-> let currentColor = usercolor || defaultcolour;
+5:42
+2 days ago
+using logical or operator we give a non-boolean value to the variable example-> let currentColor = usercolor || defaultcolour;
+Section 4:
+Control Flow
+34. 7- For...In
+0:02
+2 days ago
+Enhance for loop in java
+0:02
+2 days ago
+Enhance for loop in java
+2:53
+2 days ago
+Generally we use the bracket notation to call the property of the object, when we don't know the name of the key.like here in for in loop.
+2:53
+2 days ago
+Generally we use the bracket notation to call the property of the object, when we don't know the name of the key.like here in for in loop.
+2:58
+2 days ago
+for in loop is use to iterate ove the property of an object.
+2:58
+2 days ago
+for in loop is use to iterate ove the property of an object.
+3:02
+2 days ago
+we can also use this to iterate over an array.(for in loop)
+3:02
+2 days ago
+we can also use this to iterate over an array.(for in loop)
+35. 8- For...of
+0:05
+2 days ago
+actually the for of loop is for array iteration.and for in for object.
+0:05
+2 days ago
+actually the for of loop is for array iteration.and for in for object.
+1:13
+2 days ago
+for of is same as the enhance for loop in java, int key : array
+1:13
+2 days ago
+for of is same as the enhance for loop in java, int key : array
+38. 11- Exercise- Landscape or Portrait
+0:25
+2 days ago
+0:25
+2 days ago
+39. 12- Exercise- FizzBuzz
+5:22
+2 days ago
+alt key and up arrow(alt+up) to take the code on above lines.
+5:22
+2 days ago
+alt key and up arrow(alt+up) to take the code on above lines.
+6:35
+2 days ago
+NaN is also a type number, but the value is something specific that is not a number.
+6:35
+2 days ago
+NaN is also a type number, but the value is something specific that is not a number.
+43. 16- Exercise- String Properties
+2:13
+2 days ago
+typeof obj[key] === 'string', and for number typeof obj[key] === number
+2:13
+2 days ago
+typeof obj[key] === 'string', and for number typeof obj[key] === number
+2:53
+2 days ago
+not need to put curly braces here because if and it's implementation treated as a single value for for loop.
+2:53
+2 days ago
+not need to put curly braces here because if and it's implementation treated as a single value for for loop.
+44. 17- Exercise- Sum of Multiples 3 and 5
+2:18
+2 days ago
+last line to the seperate line, coding writing way
+2:18
+2 days ago
+last line to the seperate line, coding writing way
+2:38
+2 days ago
+lines taht are highly related is should be together.
+2:38
+2 days ago
+lines taht are highly related is should be together.
+45. 18- Exercise - Grade
+5:41
+2 days ago
+f2 for renaming
+5:41
+2 days ago
+f2 for renaming
+6:09
+2 days ago
+the different work is in the different function.
+6:09
+2 days ago
+the different work is in the different function.
+Section 5:
+Objects
+48. 1- Basics
+1:34
+2 days ago
+the object value of any key can be any thing, string number, array, object, or function.
+1:34
+2 days ago
+the object value of any key can be any thing, string number, array, object, or function.
+4:39
+a day ago
+this way of defining object is the OOP way.and function inside object is so called method.
+4:39
+a day ago
+this way of defining object is the OOP way.and function inside object is so called method.
+49. 2- Factory Functions
+1:01
+a day ago
+if our object has logic we need a different way to create object.
+1:01
+a day ago
+if our object has logic we need a different way to create object.
+2:04
+a day ago
+returnDirectly object in factory function.
+2:04
+a day ago
+returnDirectly object in factory function.
+3:25
+a day ago
+in javascript object if key and value are both same variable then we can replace it by just key.
+3:25
+a day ago
+in javascript object if key and value are both same variable then we can replace it by just key.
+4:17
+a day ago
+we can remove key value syntax in function inside object. just can write name draw() {} and implement it.
+4:17
+a day ago
+we can remove key value syntax in function inside object. just can write name draw() {} and implement it.
+50. 3- Constructor Functions
+1:18
+a day ago
+Camel And Pascal Notation. factory function are in camel notation and constructor function are in pascal notation.
+1:18
+a day ago
+Camel And Pascal Notation. factory function are in camel notation and constructor function are in pascal notation.
+2:25
+a day ago
+objects are dynamic in javascript.
+2:25
+a day ago
+objects are dynamic in javascript.
+3:35
+a day ago
+this references the empty object created by new keyword here.
+3:35
+a day ago
+this references the empty object created by new keyword here.
+4:03
+a day ago
+by creating new object with new keyword three thing happen first it create the empty object then reffer this and value to the object and --
+4:03
+a day ago
+by creating new object with new keyword three thing happen first it create the empty object then reffer this and value to the object and --
+4:05
+a day ago
+--finally it returns the object.
+4:05
+a day ago
+--finally it returns the object.
+51. 4- Dynamic Nature of Objects
+1:04
+a day ago
+delete operator is use to delete a certain member of object.
+1:04
+a day ago
+delete operator is use to delete a certain member of object.
+52. 5- Constructor Property
+0:08
+a day ago
+every object in javascript has a property call constructor.and that reference the function that was use to construct or create that object.
+0:08
+a day ago
+every object in javascript has a property call constructor.and that reference the function that was use to construct or create that object.
+1:02
+a day ago
+when we use the object literal sign , internally the javascript function call the Object() constructor.(new Object()).
+1:02
+a day ago
+when we use the object literal sign , internally the javascript function call the Object() constructor.(new Object()).
+1:03
+a day ago
+here another.constructor and circle.constructor is return the default constructor Object.
+1:03
+a day ago
+here another.constructor and circle.constructor is return the default constructor Object.
+2:17
+a day ago
+' ', " " are string liternal.internally they are calling the default constructor - new String(), and similarly 1, 2 are numeriteral --
+2:17
+a day ago
+' ', " " are string liternal.internally they are calling the default constructor - new String(), and similarly 1, 2 are numeriteral --
+2:18
+a day ago
+--calling default object new Number(), and so on.
+2:18
+a day ago
+--calling default object new Number(), and so on.
+53. 6- Functions are Objects
+1:23
+a day ago
+function is also one type of object in javascript.and the function() constructor is use to create it.
+1:23
+a day ago
+function is also one type of object in javascript.and the function() constructor is use to create it.
+2:39
+a day ago
+look here how it shows the function is internally an object by this way internally.
+2:39
+a day ago
+look here how it shows the function is internally an object by this way internally.
+3:08
+a day ago
+here Circle.call({}, 1) , is same as the new Circle(1);
+3:08
+a day ago
+here Circle.call({}, 1) , is same as the new Circle(1);
+3:50
+a day ago
+if we don't mention the new keyword there, then this is represent global object window there.
+3:50
+a day ago
+if we don't mention the new keyword there, then this is represent global object window there.
+4:29
+a day ago
+call, apply, name are the function object property internally. And Circle.length() here return the length of the argument in the function.
+4:29
+a day ago
+call, apply, name are the function object property internally. And Circle.length() here return the length of the argument in the function.
+54. 7- Value vs. Reference Types
+0:27
+a day ago
+premitive is also known as a value type.and Symbol is new in ES6
+0:27
+a day ago
+premitive is also known as a value type.and Symbol is new in ES6
+0:42
+a day ago
+nutshell ,(an just a new word)
+0:42
+a day ago
+nutshell ,(an just a new word)
+3:01
+a day ago
+premetive are copied by the value, reference type (objects) are copied by the reference (memory location).they share the same memory when --
+3:01
+a day ago
+premetive are copied by the value, reference type (objects) are copied by the reference (memory location).they share the same memory when --
+3:04
+a day ago
+-- copy one object to another.
+3:04
+a day ago
+-- copy one object to another.
+4:26
+a day ago
+here number inside method are different variable and number outside is different.and the inside one is scoped to function.so here --
+4:26
+a day ago
+here number inside method are different variable and number outside is different.and the inside one is scoped to function.so here --
+4:29
+a day ago
+-- premetives are copy by the value. so the external number is not changed when we increese it inside the function with another variable.
+4:29
+a day ago
+-- premetives are copy by the value. so the external number is not changed when we increese it inside the function with another variable.
+5:29
+a day ago
+so when pass the object. they share the reference. and if there is change while inside the function the external object is also affected--
+5:29
+a day ago
+so when pass the object. they share the reference. and if there is change while inside the function the external object is also affected--
+5:32
+a day ago
+-- by it, because they share the same memory reference.
+5:32
+a day ago
+-- by it, because they share the same memory reference.
+55. 8- Enumerating Properties of an Object
+1:43
+a day ago
+for of loop can only be use with iterables such as arrays and maps.
+1:43
+a day ago
+for of loop can only be use with iterables such as arrays and maps.
+2:07
+a day ago
+Object.keys(objectname) is return the array of the key of object and from this array we can yse the for of loop in object also.
+2:07
+a day ago
+Object.keys(objectname) is return the array of the key of object and from this array we can yse the for of loop in object also.
+3:39
+a day ago
+Object.entries(objectname) return each key value pair in object is an array, and with this also we can use for of loop in object iteration.
+3:39
+a day ago
+Object.entries(objectname) return each key value pair in object is an array, and with this also we can use for of loop in object iteration.
+5:00
+a day ago
+in operator here is use to find if the particualr key is present or not in the object.
+5:00
+a day ago
+in operator here is use to find if the particualr key is present or not in the object.
+56. 9- Cloning an Object
+3:55
+a day ago
+there are three way to clone any object (may be you can say give same values with different memory). first normal iteration with for in --
+3:55
+a day ago
+there are three way to clone any object (may be you can say give same values with different memory). first normal iteration with for in --
+3:57
+a day ago
+-- loop and passing value one by one from one object to another.second way to use Object.assign({}, targetObject) . and in this either we--
+3:57
+a day ago
+-- loop and passing value one by one from one object to another.second way to use Object.assign({}, targetObject) . and in this either we--
+3:59
+a day ago
+--can use the predefined object with value or an empty object. and the third way is to use spread operator(...)->{...targeObject}. it's --
+3:59
+a day ago
+--can use the predefined object with value or an empty object. and the third way is to use spread operator(...)->{...targeObject}. it's --
+4:02
+a day ago
+-- exact copy the one object from one to another.
+4:02
+a day ago
+-- exact copy the one object from one to another.
+57. 10- Garbage Collection
+1:13
+a day ago
+in javascript the garbage collector is run in background.It automatically finds the unuses variables and methods and deallocate memory--
+1:13
+a day ago
+in javascript the garbage collector is run in background.It automatically finds the unuses variables and methods and deallocate memory--
+1:14
+a day ago
+-- from it.
+1:14
+a day ago
+-- from it.
+58. 11- Math
+0:18
+a day ago
+Math is predefined object in javascript.
+0:18
+a day ago
+Math is predefined object in javascript.
+1:51
+a day ago
+Math.random gives random number between 0 to 1.
+1:51
+a day ago
+Math.random gives random number between 0 to 1.
+2:19
+a day ago
+can also take a random number between two predefined value.
+2:19
+a day ago
+can also take a random number between two predefined value.
+2:38
+a day ago
+Math.max(), math.round, math.min
+2:38
+a day ago
+Math.max(), math.round, math.min
+59. 12- String
+0:35
+a day ago
+premitive types don't have properties and method to indicate intellisense only object types.
+0:35
+a day ago
+premitive types don't have properties and method to indicate intellisense only object types.
+3:06
+a day ago
+include is also a function of string which same as contains in java.
+3:06
+a day ago
+include is also a function of string which same as contains in java.
+4:49
+a day ago
+trimLeft and trimRight are also a method in string.
+4:49
+a day ago
+trimLeft and trimRight are also a method in string.
+5:37
+a day ago
+\' to represent anothe quote inside string and \n for new line.
+5:37
+a day ago
+\' to represent anothe quote inside string and \n for new line.
+60. 13- Template Literals
+4:37
+a day ago
+inside the template literal we can use to shown any thing inside ${}. we can also pass function in it.
+4:37
+a day ago
+inside the template literal we can use to shown any thing inside ${}. we can also pass function in it.
+61. 14- Date
+0:53
+a day ago
+up and down arrow to different version of constructor seing.have to see all built in object topic seperately another day.
+0:53
+a day ago
+up and down arrow to different version of constructor seing.have to see all built in object topic seperately another day.
+Section 6:
+Arrays
+69. 2- Adding Elements
+0:40
+a day ago
+const does not stop us to modify the content of an array.
+0:40
+a day ago
+const does not stop us to modify the content of an array.
+3:28
+a day ago
+push , unshift and splice are use to add element in array at last, first and at specific position consecutively.
+3:28
+a day ago
+push , unshift and splice are use to add element in array at last, first and at specific position consecutively.
+70. 3- Finding Elements (Primitives)
+1:00
+a day ago
+if we don't have an element in the array indexOf() will return -1.and same lastIndexOf() also.
+1:00
+a day ago
+if we don't have an element in the array indexOf() will return -1.and same lastIndexOf() also.
+3:12
+a day ago
+includes() method return boolean that if that element is present or not in the array.
+3:12
+a day ago
+includes() method return boolean that if that element is present or not in the array.
+3:30
+a day ago
+the second argument in all the built in method in array is optional and determine from which index the search should begin.
+3:30
+a day ago
+the second argument in all the built in method in array is optional and determine from which index the search should begin.
+71. 4- Finding Elements (Reference Types)
+0:32
+a day ago
+to duplicate a perticular line we use-> shift+alt+downarrow, same as ctrl+d in linux android studio
+0:32
+a day ago
+to duplicate a perticular line we use-> shift+alt+downarrow, same as ctrl+d in linux android studio
+1:40
+a day ago
+when we check the equllity the reference are checked for reference type.so here both object are different reference so that's why include-
+1:40
+a day ago
+when we check the equllity the reference are checked for reference type.so here both object are different reference so that's why include-
+1:42
+a day ago
+- function is not work for object.
+1:42
+a day ago
+- function is not work for object.
+4:35
+a day ago
+the function inside the find method is a callback or predicate function which called back when finds the element.
+4:35
+a day ago
+the function inside the find method is a callback or predicate function which called back when finds the element.
+4:37
+a day ago
+- here course is a dummy object to just iterate and check in the array of reference type data.if data is not find it returns undefined. --
+4:37
+a day ago
+- here course is a dummy object to just iterate and check in the array of reference type data.if data is not find it returns undefined. --
+4:39
+12 hours ago
+-- courses.find --> here courses are the iterated refferencetype array in which the each object is pass one by one inside callback function
+4:39
+12 hours ago
+-- courses.find --> here courses are the iterated refferencetype array in which the each object is pass one by one inside callback function
+5:36
+a day ago
+findIndex is also a method in array of reference type value to find the index of perticular reference in array.if there is no such element--
+5:36
+a day ago
+findIndex is also a method in array of reference type value to find the index of perticular reference in array.if there is no such element--
+5:38
+a day ago
+-- then it returns -1.
+5:38
+a day ago
+-- then it returns -1.
+72. 5- Arrow Functions
+0:26
+a day ago
+the preffered way to use arrow function syntax is when to use a callback function or as an argument to different method, should use arrow--
+0:26
+a day ago
+the preffered way to use arrow function syntax is when to use a callback function or as an argument to different method, should use arrow--
+0:27
+a day ago
+-- function.
+0:27
+a day ago
+-- function.
+1:32
+a day ago
+when there is a return keyword in an arrow function and a single line of code inside the function then we can remove the curly braces --
+1:32
+a day ago
+when there is a return keyword in an arrow function and a single line of code inside the function then we can remove the curly braces --
+1:33
+12 hours ago
+-- and the return keyword from there.
+1:33
+12 hours ago
+-- and the return keyword from there.
+73. 6- Removing Elements
+2:59
+10 hours ago
+pop , shift and splice are use to remove element in array at last, first and at specific position consecutively.here difference in splice --
+2:59
+10 hours ago
+pop , shift and splice are use to remove element in array at last, first and at specific position consecutively.here difference in splice --
+3:00
+10 hours ago
+-- of adding and removing in array is that, in adding splice we pass 2nd argument i.e. deleting element no , and adding characters in --
+3:00
+10 hours ago
+-- of adding and removing in array is that, in adding splice we pass 2nd argument i.e. deleting element no , and adding characters in --
+3:02
+10 hours ago
+-- third and all. while in removing splice we pass no of deleting element and not pass further argument of adding element.
+3:02
+10 hours ago
+-- third and all. while in removing splice we pass no of deleting element and not pass further argument of adding element.
+74. 7- Emptying an Array
+0:29
+6 hours ago
+can not reassign a new reference to a object or reference type variable which has const type.in const type var can only add and remove in it
+0:29
+6 hours ago
+can not reassign a new reference to a object or reference type variable which has const type.in const type var can only add and remove in it
+1:10
+6 hours ago
+if we not assign here a new variable referance to this array object-> [1,2,3,4] then it will garbage collected.
+1:10
+6 hours ago
+if we not assign here a new variable referance to this array object-> [1,2,3,4] then it will garbage collected.
+3:44
+a few seconds ago
+there is otehr solution to emptying the array other that assign the reference to an empty object.if the array object are reference to --
+3:46
+a few seconds ago
+-- other variables then this method is not preferable for emptying. we can use array.length = 0 (it empty the object empty no matter how --
+3:48
+a few seconds ago
+-- many variable are refer to it).other than this we can also use splice with all element remove and pop method in for loop to emptying --
+3:50
+a few seconds ago
+-- array. but they are so noisy.
+75. 8- Combining and Slicing Arrays
+2:12
+a few seconds ago
+concat are use to concat two array and splice is use to splice to array.splice is work same as substring of string.if no guve any argument-
+2:14
+a few seconds ago
+- in bracket, then it will print the array as it is.
+3:31
+a few seconds ago
+if the array elements are premitive then they are copied by value and if they are reference type then ther are copied by reference(address).
+3:33
+a few seconds ago
+so if there is further change in the reference of array element. that will also can see in the combined or sliced one new array.look ex here
+76. 9- The Spread Operator
+2:05
+a few seconds ago
+we can also use a spread operator(...) to combine the array look here. and to copy the same array in another one just use the privious with-
+2:06
+a few seconds ago
+- ... three dot spread argument inside the array.-> [...combined]
+77. 10- Iterating an Array
+1:00
+a few seconds ago
+here in foreach loop and callbak function the number is a each element or object inside the corresponding array(numbers here).and each --
+1:02
+a few seconds ago
+-- callback function syntax is same as here show.
+1:49
+a few seconds ago
+the forEach is same as for of loop for iterating an array. only the difference is in the second parameter of callback forEach loop we can --
+1:50
+a few seconds ago
+-- pass the index and can show in result.we can not do it with for of loop but we can do it with for in loop.
+78. 11- Joining Arrays
+0:28
+a few seconds ago
+? indicate the parameter is optional in intellisense and after : it tells what should be the type of the parameter.
+2:23
+a few seconds ago
+join is a method to join the array element and split is a method to split the string into an array.and from this mainly we use to crate url-
+2:25
+a few seconds ago
+- slug(hello-my-name-is)
+79. 12- Sorting Arrays
+1:07
+a few seconds ago
+sort and reverse method in array are use when we have the numbers and string in the array.
+5:21
+a few seconds ago
+so to sort the object or referal type inside array we use sort method with callback function, return -1 if a<b, 1 if a>b and 0 if a===b
+6:04
+a few seconds ago
+multicursor editing together-> command+d
+80. 13- Testing the Elements of an Array
+2:22
+a few seconds ago
+every() and some() are the new methods in ES6 with callback function. every() return true if-
+2:24
+a few seconds ago
+- cirteria is fullfilled for all element in the array. and some return true if any of the one element is fulfilled the criteria.
+81. 14- Filtering an Array
+0:18
+a few seconds ago
+look here in intellisense at last thisArg?: []. it means not necessay to pass the argument and if you pass then they can be any type.
+2:13
+a few seconds ago
+filter method in array to filter the array with given criteria with callback functions.
+82. 15- Mapping an Array
+0:22
+a few seconds ago
+by map method in javascript we can map the each element in array to something else.
+2:04
+a few seconds ago
+by default the join method use comma to combine the array elements.
+3:02
+a few seconds ago
+we can also map the array elements which are string or number to an object.
+5:20
+a few seconds ago
+by default javascript in arraow function with single line assumes that {} this curly braces as an code bloct and here we parse the number --
+5:23
+a few seconds ago
+-- (element in array) in object using map. so here to recognize the javascript that this block here to make a object we need to roundup it -
+5:26
+a few seconds ago
+- with paranthisis.
+6:32
+a few seconds ago
+both the filtered and map method are crearte new array , they not modified the existing referal array.and both are chainable means we can --
+6:34
+a few seconds ago
+-- call them one after another because they dependent to each other and no where else use in the programe.
+83. 16- Reducing an Array
+3:05
+a few seconds ago
+reduce is a method in array with callback function with two parameters. first with callback function and second is initial value of the -
+3:08
+a few seconds ago
+- accumulator(i.e. resultant (can be anything , number string, object or anytthing)).and the currentvalue is refer to the current element --
+3:11
+a few seconds ago
+-- in the array while iterating.
+Section 7:
+Functions
+91. 1- Function Declarations vs. Expressions
+1:20
+a day ago
+in javascript function is an object.
+1:20
+a day ago
+in javascript function is an object.
+1:36
+a day ago
+by convention there is no semicolumn at last in function declaration, but in function expression we put.
+1:36
+a day ago
+by convention there is no semicolumn at last in function declaration, but in function expression we put.
+2:29
+a day ago
+In javascript we can define the function in two way -> function declaration (like we declare the normal function) and functon expression --
+2:29
+a day ago
+In javascript we can define the function in two way -> function declaration (like we declare the normal function) and functon expression --
+2:30
+a day ago
+-- and function expression has two types anonymous function expression like we define inside object(without the name in function) and --
+2:30
+a day ago
+-- and function expression has two types anonymous function expression like we define inside object(without the name in function) and --
+2:31
+a day ago
+-- other is named function expression, which has a name in function with expression.
+2:31
+a day ago
+-- other is named function expression, which has a name in function with expression.
+92. 2- Hoisting
+0:44
+a day ago
+so the key difference between function declaration and function expression is we can call function declaration before defining the function-
+0:44
+a day ago
+so the key difference between function declaration and function expression is we can call function declaration before defining the function-
+0:45
+a day ago
+- while function expression can not be call be call before defining.
+0:45
+a day ago
+- while function expression can not be call be call before defining.
+1:32
+a day ago
+hoisting is the process in which javascript engine moves all the function declaration to the top at run time.so that's the reason we can --
+1:32
+a day ago
+hoisting is the process in which javascript engine moves all the function declaration to the top at run time.
+1:33
+a few seconds ago
+-- call the function declaration before defining the function.
+93. 3- Arguments
+0:23
+a day ago
+javascript is a dynamic language.can change variable type at run time.
+0:23
+a day ago
+javascript is a dynamic language.can change variable type at run time.
+1:11
+a day ago
+NaN is give when there is not a valid airthmetic operation like-> 1+undefined here.
+1:11
+a day ago
+NaN is give when there is not a valid airthmetic operation like-> 1+undefined here.
+1:13
+a day ago
+- here in function calling we can pass any number of arguments or not pass any arguments.And it will not give any type of error.
+1:13
+a day ago
+- here in function calling we can pass any number of arguments or not pass any arguments.And it will not give any type of error.
+1:51
+a day ago
+every function in javascript has a special object called arguments.this looks like an array but not a array.
+1:51
+a day ago
+every function in javascript has a special object called arguments.
+2:54
+a day ago
+because the argument object have iterator so we can use the for of loop with it.and here callee represent the funtion for which the --
+2:54
+a day ago
+because the argument object have iterator so we can use the for of loop with it.and here callee represent the funtion for which the --
+2:56
+a day ago
+-- arguments object is belong to.
+2:56
+a day ago
+-- arguments object is belong to.
+94. 4- The Rest Operator
+0:51
+a day ago
+here ... three dot with parameters is a rest operator not the spread operator.
+0:51
+a day ago
+here ... three dot with parameters is a rest operator not the spread operator.
+2:16
+a day ago
+the rest operator is take the all value arguments and put it in inside the array.
+2:16
+a day ago
+the rest operator is take the all value arguments and put it in inside the array.
+4:31
+a few seconds ago
+we can not put any parameter after the rest parameter. that's why it's name is rest.
+95. 5- Default Parameters
+2:05
+a few seconds ago
+setting the default value is can achieve by the logical OR operator truthy and falsy technic or just passin the default value in the --
+2:07
+a few seconds ago
+-- parameter it self. and the all the parameter after the default parameter value should be also default value in paramer.otherwise the -
+2:09
+a few seconds ago
+- result would be not a number. it's remedy is to pass undefined in the place of the default paramerer value and for rest pass value. but -
+2:10
+a few seconds ago
+- it would look so noisy and ugly.
+96. 6- Getters and Setters
+5:12
+a few seconds ago
+get and set keyword is use in javascript to set any method work as getter and setter.and by this we can call these function like a property-
+5:14
+a few seconds ago
+- of an object.
+97. 7- Try and Catch
+0:57
+a few seconds ago
+defencieve programming.
+2:45
+a few seconds ago
+trow keyword reffer to an exception.and new Error() is just as an normal object of error.
+3:52
+a few seconds ago
+here e is an object of the error we are define above.
+5:30
+a few seconds ago
+after throwing line the line not go to after it direct goes to handled exception block.
+98. 8- Local vs. Global Scope
+0:59
+a few seconds ago
+let and const based variable and constants are limited to block(of function, if or loop) in which they are defined.
+4:12
+a few seconds ago
+local variable or scope take president over global in comparison of access inside locally.
+4:43
+a few seconds ago
+try always to deal with locally scoped variables.
+99. 9- Let vs Var
+2:32
+a few seconds ago
+var is not a block scoped, it is a function scoped indeed.
+4:34
+a few seconds ago
+globally declare var keyword are attached to an global window object which is not a good practice. so try not to use var keyword.if you use-
+4:37
+a few seconds ago
+- third party library then this can cause you in trouble by override there variable attache to window object are replace by youe var may be.
+5:17
+a few seconds ago
+when we define funtion then this function is added to a window object, but this is not a good.
+100. 10- The This Keyword
+0:30
+a few seconds ago
+this reference the object that is executing the current function or method.
+2:11
+a few seconds ago
+play method -> here this reference the current function object because method is a part of the current function.And -
+2:14
+a few seconds ago
+- function playvideo() -> creating function globally attached to window object.so-
+2:16
+a few seconds ago
+-here, this keyword refer to a window object. global(window in browser, global in node).
+3:49
+a few seconds ago
+new creates empty object so that's why the constructor function this refer to an empty object created by new keyword.
+5:37
+a few seconds ago
+the callback functoion inside the showTags() method here is attached to an window object not to a video oject show that's why this.title is-
+5:40
+a few seconds ago
+- undefined here.and the anonymous function is a regular function not a function of inside any bounded object.
+6:18
+a few seconds ago
+in second parameter of foreach method we can pass an object and that object is reffer to this key inside the callback function.so callback -
+6:21
+a few seconds ago
+- function is belongs to the second [arameter object.
+101. 11- Changing This
+1:25
+a few seconds ago
+to overcome from the reference of the global dependency via this in anonymous function we can also use const self = this. and can use the-
+1:27
+a few seconds ago
+- self here to refer the parent function this reference.
+4:26
+a few seconds ago
+we can set the this argument by call, apply and bind for the given function.difference in call and apply is in apply we have to pass -
+4:29
+a few seconds ago
+- further arguments in array.and bind method is return a function instead of calling the attached function here playVideo(), and refer -
+4:32
+a few seconds ago
+- the new object to this of the showVideo function. after that we have to immideately call the returned function by this bind method.and -
+4:35
+a few seconds ago
+- for this just use () this sign beside the bind function. ot will automatically called the returned one.
+5:09
+a few seconds ago
+we can also use bind just beside the function attached with dot to refer this here.
+5:34
+a few seconds ago
+arrow function are inharits the this value.so this is not rebound inside array function. and it's an easy approach to use this inside -
+5:37
+a few seconds ago
+- function refer to an global window object.
